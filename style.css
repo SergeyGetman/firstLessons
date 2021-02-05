@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(69, 109, 96);
+}
+
+.red {
+    background-color: blue;
+}
+
+.black {
+    background-color: firebrick;
+}
+
+.yellow {
+    background-color: fuchsia;
+}
